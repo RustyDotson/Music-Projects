@@ -1,5 +1,5 @@
 # Music-Projects
-Ease-of-Access Repo for storing and transfering LMMS project files.
+Ease-of-Access Repo for storing and transferring LMMS project files.
 
 The only things you need to know:
 -----------------------------------

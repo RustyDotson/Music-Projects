@@ -1,5 +1,6 @@
 # Music-Projects
 Ease-of-Access Repo for storing and transferring LMMS project files.
+Notice, some tracks are unplayable because you will likely not have instruments/sounds saved that I used to make these tracks. These are raw lmms files, meaning they require the source of all audio files used in the tracks to allow music to play accordingly.
 
 The only things you need to know:
 -----------------------------------
